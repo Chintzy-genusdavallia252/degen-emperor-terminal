@@ -1,16 +1,13 @@
 # Disclaimer
 
-DEGEN EMPEROR TERMINAL is a software and documentation project.
+This project is for educational and informational purposes.
 
-Nothing in this repository constitutes:
+It is NOT:
 
-- financial advice
-- investment advice
-- a promise of profitability
-- risk-free trading guidance
+* financial advice
+* investment advice
+* profit guarantee
 
-Trading digital assets involves substantial risk.
+Trading is risky.
 
-Users are responsible for their own decisions, capital allocation, and risk management.
-
-This public repository documents the product at a high level and does not expose the private execution core.
+You are fully responsible for your decisions.
