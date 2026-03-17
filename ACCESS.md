@@ -26,5 +26,10 @@ The terminal is designed as a practical execution system, not as an open-source 
 
 Publishing the core would destroy the product edge and compromise security.
 
-## Access direction
-Access to the full system may be limited, curated, or subscription-based in future versions.
+## ⚠️ Limited Access
+
+This system is not public.
+
+Access is gradually opened to a small number of users.
+
+Early users will get priority and better conditions.
