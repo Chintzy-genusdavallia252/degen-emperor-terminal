@@ -154,5 +154,5 @@ Trading involves risk.
 
 ---
 
-👑 SKYFOR EDITION
+👑 DEGEN EMPEROR 
 Built for traders who want control — not luck.
