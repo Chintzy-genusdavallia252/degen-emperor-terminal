@@ -43,13 +43,19 @@ Key data layers:
 - Funding rates
 - Dual RSI (1H / 4H)
 
-### 3. Auto-Execution
-The terminal is not limited to signal display.
+## 🤖 Auto-Execution
 
-It also supports execution workflows with exchange connectivity, including CEX and DEX environments.
+This is not just signals.
 
-### 4. Real-Time Interface
-The terminal is built for fast interaction, synchronized UI updates, and rapid market scanning.
+The terminal can execute trades automatically.
+
+- Detects setup
+- Generates trade plan
+- Executes order
+
+You don’t click.  
+You don’t hesitate.  
+You execute.
 
 ---
 
