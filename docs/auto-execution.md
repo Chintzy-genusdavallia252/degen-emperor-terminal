@@ -1,29 +1,28 @@
-# Auto-Execution Overview
+# Auto-Execution
 
-## What it is
-Auto-Execution is the execution layer of DEGEN EMPEROR TERMINAL.
+## What it does
 
-It is designed to connect signal generation with actual trade execution flows.
+Auto-execution connects signals to real trades.
 
-## High-level workflow
-1. Market data is processed
-2. A structured setup is identified
-3. Trade parameters are generated
-4. Execution logic sends the order through connected environments
+---
 
-## Supported environments
-- CEX connectivity
-- DEX connectivity
+## Workflow
 
-## Public note
-This repository documents the execution concept only.  
-The private implementation details are not published.
+1. Detect setup
+2. Generate trade plan
+3. Execute order
 
-## Why this matters
-Most retail traders lose edge during execution:
-- hesitation
-- late entries
-- inconsistent order placement
-- poor risk handling
+---
 
-Auto-Execution is designed to reduce that gap.
+## Supported
+
+* CEX
+* DEX
+
+---
+
+## Why it matters
+
+Most traders fail at execution.
+
+This removes that problem.
