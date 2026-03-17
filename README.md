@@ -1,7 +1,8 @@
 # 👑 DEGEN EMPEROR TERMINAL
 
-**AI-powered crypto trading terminal with smart money signals, market screener, auto-execution, and CEX/DEX connectivity.**
-
+> AI-powered execution terminal for crypto traders  
+> that not only finds trades — but executes them.
+> 
 ## What is DEGEN EMPEROR TERMINAL?
 
 DEGEN EMPEROR TERMINAL is a closed-core crypto trading platform designed for fast market analysis, structured trade execution, and multi-asset monitoring.
