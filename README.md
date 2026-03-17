@@ -1,0 +1,144 @@
+# 👑 DEGEN EMPEROR TERMINAL
+
+**AI-powered crypto trading terminal with smart money signals, market screener, auto-execution, and CEX/DEX connectivity.**
+
+## What is DEGEN EMPEROR TERMINAL?
+
+DEGEN EMPEROR TERMINAL is a closed-core crypto trading platform designed for fast market analysis, structured trade execution, and multi-asset monitoring.
+
+It combines:
+
+- Smart Money Concepts (SMC)
+- Real-time market data
+- Market screener logic
+- Auto-execution workflows
+- CEX and DEX connectivity
+
+This repository is the public product documentation layer.  
+The core engine is private.
+
+---
+
+## Core capabilities
+
+### 1. Emperor's Command
+A deterministic signal system that generates structured LONG and SHORT trade plans.
+
+Each signal can include:
+
+- Entry
+- Stop loss
+- TP1 / TP2 / TP3
+- Probability score
+- Allocation guidance
+
+### 2. Market Screener
+A multi-asset screener designed to surface high-probability setups without manual chart switching.
+
+Key data layers:
+
+- 24h volume
+- Open Interest (12H)
+- Funding rates
+- Dual RSI (1H / 4H)
+
+### 3. Auto-Execution
+The terminal is not limited to signal display.
+
+It also supports execution workflows with exchange connectivity, including CEX and DEX environments.
+
+### 4. Real-Time Interface
+The terminal is built for fast interaction, synchronized UI updates, and rapid market scanning.
+
+---
+
+## Who is this for?
+
+- Crypto traders
+- Scalpers
+- Smart money traders
+- Multi-asset execution users
+- Traders who want structure instead of random discretionary entries
+
+---
+
+## Why this project exists
+
+Most traders do not fail only because of strategy.
+
+They fail because of:
+
+- poor execution
+- hesitation
+- missing context
+- weak trade structure
+
+This terminal was built to reduce decision friction and improve execution consistency.
+
+---
+
+## Public repository model
+
+This repository does **not** contain the private trading core.
+
+It exists to document the system, publish architecture notes, explain the product, and provide a discoverable public surface for the project.
+
+Public:
+- product overview
+- docs
+- screenshots
+- guides
+- FAQ
+- roadmap
+
+Private:
+- signal engine
+- execution logic
+- exchange integration internals
+- private strategy implementation
+
+---
+
+## Documentation
+
+- [Architecture](docs/architecture.md)
+- [Market Screener Guide](docs/screener-guide.md)
+- [Auto-Execution Overview](docs/auto-execution.md)
+- [Security Model](docs/security-model.md)
+- [FAQ](FAQ.md)
+- [Access](ACCESS.md)
+- [Disclaimer](DISCLAIMER.md)
+
+---
+
+## Screenshots
+
+![Terminal Overview](assets/terminal-overview.png)
+![Screener Panel](assets/screener-panel.png)
+![Emperor Command](assets/emperor-command.png)
+
+---
+
+## Roadmap
+
+- Public landing page
+- Access request flow
+- More exchange adapters
+- Advanced whale-flow layer
+- Enhanced reporting and analytics
+- Expanded risk-control module
+
+---
+
+## Access
+
+The full terminal is closed-core.
+
+See [ACCESS.md](ACCESS.md) for access model details.
+
+---
+
+## Disclaimer
+
+This repository is for product documentation and educational presentation only.  
+It is not financial advice.
