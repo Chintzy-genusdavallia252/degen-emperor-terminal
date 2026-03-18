@@ -39,5 +39,3 @@ Publishing it would destroy the edge.
 ---
 
 This is not for everyone.
-
-Only for serious traders.
